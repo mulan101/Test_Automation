@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>이미지를 비교하여 정합성 체크</description>
    <name>TC_compare_image</name>
    <tag></tag>
    <comment></comment>

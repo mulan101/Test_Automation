@@ -19,3 +19,47 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('http://www.samsung.com/sec/smartphones/galaxy-s8-g950/SM-G950NZKAKTC/')
+
+WebUI.click(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/a_product-details__link_01'))
+
+WebUI.delay(2)
+
+bImgFlag1 = WebUI.verifyImagePresent(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/img_01'))
+
+WebUI.click(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/a_product-details__link_02'))
+
+WebUI.delay(2)
+
+bImgFlag2 = WebUI.verifyImagePresent(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/img_02'))
+
+WebUI.click(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/a_product-details__link_03'))
+
+WebUI.delay(2)
+
+bImgFlag3 = WebUI.verifyImagePresent(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/img_03'))
+
+WebUI.click(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/a_product-details__link_04'))
+
+WebUI.delay(2)
+
+bImgFlag4 = WebUI.verifyImagePresent(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/img_04'))
+
+WebUI.click(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/a_product-details__link_05'))
+
+WebUI.delay(2)
+
+bImgFlag5 = WebUI.verifyImagePresent(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/img_05'))
+
+WebUI.click(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/a_product-details__link_06'))
+
+WebUI.delay(2)
+
+bImgFlag6 = WebUI.verifyImagePresent(findTestObject('UNIT_TEST/RE_COMPARE_IMAGE/Page_SM-G950N  SM-G950NZKAKTC  Sams/img_06'))
+
+WebUI.closeBrowser()
+
