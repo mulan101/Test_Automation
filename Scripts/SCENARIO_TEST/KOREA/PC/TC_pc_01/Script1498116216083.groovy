@@ -45,12 +45,15 @@ WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/04.input_pnDL
 '\uB85C\uADF8\uC778 \uBC84\uD2BC \uD074\uB9AD / Main\uD654\uBA74\uC73C\uB85C \uC774\uB3D9'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/05.input_btnSignIn_button'))
 
-WebUI.takeScreenshot()
+'edge\uC758 \uACBD\uC6B0 \uB85C\uADF8\uC778 \uC644\uB8CC \uC2DC\uC810\uC5D0 \uC624\uB958\uAC00 \uBC1C\uC0DD\uB418\uC5B4 delay \uB85C\uC9C1 \uCD94\uAC00'
+WebUI.delay(20)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'))
 
 '\uB85C\uADF8\uC778 \uC644\uB8CC \uCCB4\uD06C\uB97C \uC704\uD574 text \uBE44\uAD50'
 WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/07.strong_validation_login'), 2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/08.a_menu_mouseover'))
 
