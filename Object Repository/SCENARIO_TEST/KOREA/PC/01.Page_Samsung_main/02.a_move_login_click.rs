@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02.a_move_login_click</name>
+   <tag></tag>
+   <elementGuidId>b532409f-263f-4012-a498-f39a655696b9</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;cm-g-gnb gnb&quot;]/nav[@class=&quot;gb-gnb&quot;]/div[@class=&quot;gb-gnb__bar&quot;]/div[@class=&quot;gb-gnb__bar-inner&quot;]/div[@class=&quot;gb-gnb__sub&quot;]/ul[@class=&quot;gb-gnb__utility&quot;]/li[@class=&quot;s-login_new&quot;]/ul[@class=&quot;gb-gnb__my-layer&quot;]/li[@class=&quot;loginBtn&quot;]/a[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-omni</name>
+      <type>Main</type>
+      <value>login</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://account.samsung.com/mobile/account/check.do</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>로그인</value>
+   </webElementProperties>
+</WebElementEntity>

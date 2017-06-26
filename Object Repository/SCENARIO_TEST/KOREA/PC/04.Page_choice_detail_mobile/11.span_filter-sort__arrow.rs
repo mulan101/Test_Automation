@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>11.span_filter-sort__arrow</name>
+   <tag></tag>
+   <elementGuidId>30539b2d-dc29-4619-a5c5-2c30711738fb</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;js-fs-blank&quot;]/div[@class=&quot;filter-sort&quot;]/div[@class=&quot;filter-sort__head&quot;]/button[@class=&quot;filter-sort__head-title&quot;]/span[@class=&quot;filter-sort__arrow&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-sort__arrow</value>
+   </webElementProperties>
+</WebElementEntity>

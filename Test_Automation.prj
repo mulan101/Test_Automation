@@ -4,5 +4,5 @@
    <name>Test_Automation</name>
    <tag></tag>
    <UUID>5c16f654-cf4e-4bcc-b00e-9d0180618bd3</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>
