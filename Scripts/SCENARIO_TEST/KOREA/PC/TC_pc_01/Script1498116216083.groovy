@@ -46,7 +46,7 @@ WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/04.input_pnDL
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/05.input_btnSignIn_button'))
 
 'edge\uC758 \uACBD\uC6B0 \uB85C\uADF8\uC778 \uC644\uB8CC \uC2DC\uC810\uC5D0 \uC624\uB958\uAC00 \uBC1C\uC0DD\uB418\uC5B4 delay \uB85C\uC9C1 \uCD94\uAC00'
-WebUI.delay(20)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'))
 
@@ -72,44 +72,44 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/04.Page_choice_detail_mobile/
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/12.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/13.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/14.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/15.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/16.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/17.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/18.span_filter-sort__inp-checkbox'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/19.button_submit'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.waitForJQueryLoad(10)
 
 'xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00/xpath \uC804\uCCB4 \uC218\uC815'
 WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/06.Page_  Samsung/20.li_ S'), 2)
@@ -142,7 +142,7 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/29.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(5)
+WebUI.waitForJQueryLoad(10)
 
 'class \uACF5\uBC31 \uCD94\uAC00 / xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/30.a_'))
@@ -150,25 +150,25 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/31.span_BT_color-chip'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(5)
+WebUI.waitForJQueryLoad(10)
 
 'xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKFSKC  Sams/33.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(5)
+WebUI.delay(3)
 
 'xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKFSKC  Sams/34.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(5)
+WebUI.delay(3)
 
 'xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKFSKC  Sams/35.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(5)
+WebUI.delay(3)
 
 WebUI.takeScreenshot()
 
