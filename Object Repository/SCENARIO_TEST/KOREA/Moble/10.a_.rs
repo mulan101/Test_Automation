@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10.a_</name>
+   <tag></tag>
+   <elementGuidId>afadb03b-9818-4dbf-8b0e-0786e29c32f2</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;cm-g-gnb gnb&quot;]/nav[@class=&quot;gb-gnb&quot;]/div[@class=&quot;gb-gnb__bar&quot;]/div[@class=&quot;gb-gnb__bar-inner&quot;]/div[@class=&quot;gb-gnb__drop-mobile drilldown&quot;]/div[@class=&quot;gb-gnb__drop-mobile-wrap drilldown-container&quot;]/div[@class=&quot;drilldown-root&quot;]/ul[1]/li[@class=&quot;s-depth2-wrap&quot;]/ul[1]/li[1]/a[@class=&quot;s-depth3-link&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-omni</name>
+      <type>Main</type>
+      <value>mobile:mobile:smartphone</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sec/smartphones/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>스마트폰</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-depth3-link s-hover</value>
+   </webElementProperties>
+</WebElementEntity>

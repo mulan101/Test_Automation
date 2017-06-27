@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>34.a_</name>
+   <tag></tag>
+   <elementGuidId>f2d2149b-0888-469d-ba31-99a2ed54dfdf</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;product-filter-grid&quot;]/div[@class=&quot;product-filter-grid__grid-wrap&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-card-grid__wrap product-grid--trisection&quot;]/div[@class=&quot;product-card-grid__wrap-inner&quot;]/div[@class=&quot;product-card-grid&quot;]/div[@class=&quot;product-card-grid__btn-wrap&quot;]/a[@class=&quot;s-btn-encased product-card-pdp-link&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-omni</name>
+      <type>Main</type>
+      <value>SM-G935S|SM-G935SZDESKO</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>link_info</name>
+      <type>Main</type>
+      <value>/sec/smartphones/galaxy-s7-edge-g935/SM-G935SZDESKO/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sec/smartphones/galaxy-s7-edge-g935/SM-G935SZDESKO/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>자세히 보기</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-btn-encased product-card-pdp-link</value>
+   </webElementProperties>
+</WebElementEntity>
