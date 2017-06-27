@@ -142,7 +142,7 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/29.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.delay(5)
 
 'class \uACF5\uBC31 \uCD94\uAC00 / xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/30.a_'))
@@ -156,19 +156,19 @@ WebUI.delay(5)
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKFSKC  Sams/33.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.delay(5)
 
 'xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKFSKC  Sams/34.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.delay(5)
 
 'xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKFSKC  Sams/35.a_product-details__link'))
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
-WebUI.delay(2)
+WebUI.delay(5)
 
 WebUI.takeScreenshot()
 
