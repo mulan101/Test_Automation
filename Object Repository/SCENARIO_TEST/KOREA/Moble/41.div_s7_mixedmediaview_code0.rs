@@ -1,64 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>39.button_</name>
+   <name>41.div_s7_mixedmediaview_code0</name>
    <tag></tag>
-   <elementGuidId>eae242f2-d2de-4202-8cc2-ff6420000d1a</elementGuidId>
+   <elementGuidId>0b3b5ea5-b8ea-4946-b12e-05b041a27dd2</elementGuidId>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slick-index</name>
+      <type>Main</type>
+      <value>0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;gallery-detail&quot;)/div[@class=&quot;product-details__view&quot;]/div[@class=&quot;s-view-slick js-pd-viewer-carousel slick-initialized slick-slider slick-dotted&quot;]/button[@class=&quot;slick-next slick-arrow&quot;]</value>
+      <value>id(&quot;s7_mixedmediaview_code0&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>button</value>
+      <value>option</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>aria-describedby</name>
       <type>Main</type>
-      <value>이전</value>
+      <value>slick-slide110</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>button</value>
+      <value>-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-role</name>
+      <name>aria-hidden</name>
       <type>Main</type>
-      <value>none</value>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>s7_mixedmediaview_code0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>slick-next slick-arrow</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>이전</value>
+      <value>slick-slide slick-current slick-active</value>
    </webElementProperties>
 </WebElementEntity>
