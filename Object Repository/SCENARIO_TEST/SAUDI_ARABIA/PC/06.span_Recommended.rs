@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>06.span_Recommended</name>
+   <tag></tag>
+   <elementGuidId>0eae6706-1c9a-4ff3-a0d7-a451ca0615cb</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;js-fs-blank&quot;]/div[@class=&quot;filter-sort&quot;]/div[@class=&quot;filter-sort__wrap&quot;]/div[@class=&quot;filter-sort__filter-select active&quot;]/div[@class=&quot;filter-sort__sub-wrap&quot;]/ul[1]/li[3]/a[1]/span[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recommended</value>
+   </webElementProperties>
+</WebElementEntity>
