@@ -34,7 +34,7 @@ WebUI.setText(findTestObject('SCENARIO_TEST/SAUDI_ARABIA/Mobile/02.input_gnb_sea
 
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0 delay'
 WebUI.waitForJQueryLoad(10)
-
+ 
 WebUI.click(findTestObject('SCENARIO_TEST/SAUDI_ARABIA/Mobile/03.a_ led tv'))
 
 '\uC2A4\uD06C\uB9B0\uC0F7 \uCD94\uAC00'

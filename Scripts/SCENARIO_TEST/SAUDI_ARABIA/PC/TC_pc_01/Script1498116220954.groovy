@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('SCENARIO_TEST/SAUDI_ARABIA/PC/02.input_gnb_search'
 WebUI.waitForJQueryLoad(10)
 
 WebUI.takeScreenshot()
-
+ 
 WebUI.click(findTestObject('SCENARIO_TEST/SAUDI_ARABIA/PC/03.a_ led tv'))
 
 'text \uBE44\uAD50\uB97C \uC704\uD574 \uC870\uAC74 \uCD94\uAC00'
