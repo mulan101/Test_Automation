@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+UNIT_TEST,Chrome 59.0.3071.109,,2017-06-26 18:55:50,2017-06-26 18:55:58,7.494s,FAILED
+,,,,,,
+Test Cases/UNIT_TEST/TC_sendkeys,Chrome 59.0.3071.109,for keyboad typing actions,2017-06-26 18:55:50,2017-06-26 18:55:58,7.099s,FAILED
+openBrowser,Chrome 59.0.3071.109,,2017-06-26 18:55:51,2017-06-26 18:55:55,3.525s,PASSED
+navigateToUrl,Chrome 59.0.3071.109,,2017-06-26 18:55:55,2017-06-26 18:55:57,2.337s,PASSED
+submit,Chrome 59.0.3071.109,,2017-06-26 18:55:57,2017-06-26 18:55:58,0.685s,FAILED

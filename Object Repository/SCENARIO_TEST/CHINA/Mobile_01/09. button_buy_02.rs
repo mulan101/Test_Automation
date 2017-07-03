@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>09. button_buy_02</name>
+   <tag></tag>
+   <elementGuidId>666622e6-aff1-457a-9d23-6d12919e91bb</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/div[3]/div[2]/div/div[1]/div[3]/div[1]/div/div[5]/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-omni</name>
+      <type>Main</type>
+      <value>ua55mu8900j|ua55mu8900jxxz</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>link_info</name>
+      <type>Main</type>
+      <value>/cn/tvs/uhd-mu8900/UA55MU8900JXXZ/@@http://search5.samsung.com/click?ct=c&amp;r=10&amp;q=Premium%20UHD%20TV&amp;site=cn&amp;url=http%3A//www.samsung.com/cn/tvs/uhd-mu8900/UA55MU8900JXXZ/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cn/tvs/uhd-mu8900/UA55MU8900JXXZ/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>了解更多</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-btn-encased product-card-pdp-link</value>
+   </webElementProperties>
+</WebElementEntity>

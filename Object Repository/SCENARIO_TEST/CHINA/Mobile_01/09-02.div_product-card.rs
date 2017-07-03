@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>09-02.div_product-card</name>
+   <tag></tag>
+   <elementGuidId>0925e850-e1fb-443f-8ca4-a83cde39fd75</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;product-filter-grid&quot;]/div[@class=&quot;product-filter-grid__grid-wrap&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-list product-grid--trisection&quot;]/div[@class=&quot;product-card__wrap&quot;]/div[@class=&quot;product-card__wrap-inner&quot;]/div[@class=&quot;product-card&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>family-index</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-omni</name>
+      <type>Main</type>
+      <value>ua55mu8900j|ua55mu8900jxxz</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-card</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TSC_UK_PC,Chrome 59.0.3071.109,,2017-06-26 09:59:46,2017-06-26 10:00:42,56.298s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01,Chrome 59.0.3071.109,,2017-06-26 09:59:46,2017-06-26 10:00:42,55.890s,FAILED
+openBrowser,Chrome 59.0.3071.109,open browser,2017-06-26 09:59:47,2017-06-26 09:59:50,3.471s,PASSED
+maximizeWindow,Chrome 59.0.3071.109,,2017-06-26 09:59:50,2017-06-26 09:59:52,1.212s,PASSED
+navigateToUrl,Chrome 59.0.3071.109,"go to \""https://shop.samsung.com/uk/\""",2017-06-26 09:59:52,2017-06-26 10:00:06,13.914s,PASSED
+click,Chrome 59.0.3071.109,hit a 'sign in' button,2017-06-26 10:00:06,2017-06-26 10:00:06,0.149s,PASSED
+setText,Chrome 59.0.3071.109,enter your 'WRONG' account,2017-06-26 10:00:06,2017-06-26 10:00:06,0.324s,PASSED
+click,Chrome 59.0.3071.109,,2017-06-26 10:00:06,2017-06-26 10:00:06,0.172s,PASSED
+setText,Chrome 59.0.3071.109,enter your password,2017-06-26 10:00:06,2017-06-26 10:00:06,0.201s,PASSED
+click,Chrome 59.0.3071.109,hit the 'sign in' button,2017-06-26 10:00:06,2017-06-26 10:00:11,4.817s,PASSED
+setText,Chrome 59.0.3071.109,enter your 'RIGHT' account,2017-06-26 10:00:11,2017-06-26 10:00:42,31.020s,FAILED

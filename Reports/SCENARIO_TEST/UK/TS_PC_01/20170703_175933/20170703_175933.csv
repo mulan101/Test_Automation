@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_PC_01,,,2017-07-03 17:59:43,2017-07-03 17:59:53,10.599s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01_final,,,2017-07-03 17:59:44,2017-07-03 17:59:53,9.386s,FAILED
+openBrowser,,,2017-07-03 17:59:45,2017-07-03 17:59:53,8.274s,FAILED

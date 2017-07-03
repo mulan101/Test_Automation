@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>특정 element를 화면에 보이도록 할 때
+
+(아니면 화면을 움직일 필요가 있을 때 활용 가능)</description>
+   <name>TC_Scroll To Element</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f148158-48bb-440d-b1d7-2bc6794e746c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>웹사이트 사이즈 조정하는 코드</description>
+   <name>TC_SetViewPortSize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab453d28-377f-4d88-8b34-43d13fc27ef5</testCaseGuid>
+</TestCaseEntity>
