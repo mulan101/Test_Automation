@@ -11,7 +11,7 @@
             <runConfigurationId>remote_chrome</runConfigurationId>
          </configuration>
          <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/SAUDI_ARABIA/PC/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -19,7 +19,7 @@
             <runConfigurationId>remote_edge</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/SAUDI_ARABIA/PC/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -27,7 +27,7 @@
             <runConfigurationId>remote_forefox</runConfigurationId>
          </configuration>
          <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/SAUDI_ARABIA/PC/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>remote_ie</runConfigurationId>
          </configuration>
          <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/SAUDI_ARABIA/PC/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -43,7 +43,7 @@
             <runConfigurationId>remote_safari</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/SAUDI_ARABIA/PC/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

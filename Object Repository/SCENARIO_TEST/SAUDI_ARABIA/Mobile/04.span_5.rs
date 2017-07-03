@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>04.span_5</name>
+   <tag></tag>
+   <elementGuidId>eb8590e9-50a3-4276-90b8-173a10b0bce3</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;product-filter-grid&quot;]/div[@class=&quot;product-filter-grid__grid-wrap&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-list product-grid--trisection&quot;]/div[@class=&quot;filter-sort__results_text&quot;]/span[@class=&quot;filter-sort__number&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-sort__number</value>
+   </webElementProperties>
+</WebElementEntity>

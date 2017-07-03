@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-not_run: WebUI.setViewPortSize(300, 600)
+WebUI.setViewPortSize(300, 800)
 
 WebUI.navigateToUrl('http://www.samsung.com/sec/')
 

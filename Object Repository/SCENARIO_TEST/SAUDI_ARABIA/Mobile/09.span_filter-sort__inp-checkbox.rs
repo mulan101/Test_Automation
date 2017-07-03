@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>09.span_filter-sort__inp-checkbox</name>
+   <tag></tag>
+   <elementGuidId>dec689a0-2305-4f5e-9d31-af591373f524</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/div[3]/div[1]/div/div[1]/div[2]/div/ul/li[4]/div/span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-acc-checkbox</name>
+      <type>Main</type>
+      <value>checkbox-series03z04</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-sort__inp-checkbox hover</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-acc-onclass</name>
+      <type>Main</type>
+      <value>active</value>
+   </webElementProperties>
+</WebElementEntity>

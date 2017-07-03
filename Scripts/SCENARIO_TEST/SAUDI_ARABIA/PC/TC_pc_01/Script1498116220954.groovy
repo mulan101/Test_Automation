@@ -21,6 +21,8 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('http://www.samsung.com/sa/')
 
 WebUI.takeScreenshot()

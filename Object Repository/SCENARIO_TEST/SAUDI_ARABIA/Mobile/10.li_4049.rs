@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10.li_4049</name>
+   <tag></tag>
+   <elementGuidId>3c47bf27-3af6-434e-9870-b864b2f7b838</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;product-filter-grid&quot;]/div[@class=&quot;product-filter-grid__left js-filter-left-fix&quot;]/div[@class=&quot;filter-sort__fix-wrap&quot;]/div[@class=&quot;filter-sort-applied--m active&quot;]/div[@class=&quot;filter-sort__item&quot;]/ul[@class=&quot;applied-list&quot;]/li[2]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>40&quot;~49&quot;</value>
+   </webElementProperties>
+</WebElementEntity>

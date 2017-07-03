@@ -11,7 +11,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_mobile_01</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/Mobile/TS_mobile_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

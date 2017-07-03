@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>12.button_</name>
+   <tag></tag>
+   <elementGuidId>016b7061-1d57-47a2-b79a-2187ee587571</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;js-fs-blank&quot;]/div[@class=&quot;filter-sort js-fs-top-fix&quot;]/div[@class=&quot;filter-sort__wrap&quot;]/div[@class=&quot;filter-sort__menu&quot;]/div[@class=&quot;filter-sort__results-mo&quot;]/button[@class=&quot;filter-sort__results-btn&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>تصفية النتائج</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-sort__results-btn</value>
+   </webElementProperties>
+</WebElementEntity>
