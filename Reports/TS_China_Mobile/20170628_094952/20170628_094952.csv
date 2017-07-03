@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_China_Mobile,Firefox 53.0,,2017-06-28 09:49:56,2017-06-28 09:50:54,57.389s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01,Firefox 53.0,,2017-06-28 09:49:57,2017-06-28 09:50:54,57.008s,FAILED
+openBrowser,Firefox 53.0,,2017-06-28 09:49:57,2017-06-28 09:50:01,3.975s,PASSED
+setViewPortSize,Firefox 53.0,iPhone 6 diplay size,2017-06-28 09:50:01,2017-06-28 09:50:01,0.092s,PASSED
+navigateToUrl,Firefox 53.0,navigate to www.samsung.com/cn,2017-06-28 09:50:01,2017-06-28 09:50:05,3.997s,PASSED
+click,Firefox 53.0,hit the menu button,2017-06-28 09:50:05,2017-06-28 09:50:06,1.307s,PASSED
+click,Firefox 53.0,,2017-06-28 09:50:06,2017-06-28 09:50:07,0.199s,PASSED
+click,Firefox 53.0,,2017-06-28 09:50:07,2017-06-28 09:50:07,0.730s,PASSED
+click,Firefox 53.0,,2017-06-28 09:50:07,2017-06-28 09:50:14,6.385s,PASSED
+click,Firefox 53.0,,2017-06-28 09:50:14,2017-06-28 09:50:15,1.070s,PASSED
+click,Firefox 53.0,"do not hit the square box, becasue it changes into black when you mouseover\r\n",2017-06-28 09:50:15,2017-06-28 09:50:16,1.586s,PASSED
+click,Firefox 53.0,07. button_ doesn't work. why???,2017-06-28 09:50:16,2017-06-28 09:50:19,3.043s,PASSED
+click,Firefox 53.0,image rotation part,2017-06-28 09:50:19,2017-06-28 09:50:20,0.559s,PASSED
+selectOptionByValue,Firefox 53.0,,2017-06-28 09:50:20,2017-06-28 09:50:54,33.542s,FAILED

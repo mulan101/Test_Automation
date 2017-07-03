@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TSC_UK_PC,Chrome 59.0.3071.109,,2017-06-26 10:32:09,2017-06-26 10:33:13,1m - 3.821s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01,Chrome 59.0.3071.109,,2017-06-26 10:32:10,2017-06-26 10:33:13,1m - 3.440s,FAILED
+openBrowser,Chrome 59.0.3071.109,open browser,2017-06-26 10:32:10,2017-06-26 10:32:13,3.367s,PASSED
+maximizeWindow,Chrome 59.0.3071.109,,2017-06-26 10:32:13,2017-06-26 10:32:15,1.306s,PASSED
+navigateToUrl,Chrome 59.0.3071.109,"go to \""https://shop.samsung.com/uk/\""",2017-06-26 10:32:15,2017-06-26 10:32:34,19.373s,PASSED
+click,Chrome 59.0.3071.109,hit a 'sign in' button,2017-06-26 10:32:34,2017-06-26 10:32:34,0.269s,PASSED
+setText,Chrome 59.0.3071.109,enter your 'WRONG' account,2017-06-26 10:32:34,2017-06-26 10:32:35,0.354s,PASSED
+click,Chrome 59.0.3071.109,,2017-06-26 10:32:35,2017-06-26 10:32:35,0.121s,PASSED
+setText,Chrome 59.0.3071.109,enter your password,2017-06-26 10:32:35,2017-06-26 10:32:35,0.249s,PASSED
+click,Chrome 59.0.3071.109,hit the 'sign in' button,2017-06-26 10:32:35,2017-06-26 10:32:42,6.552s,PASSED
+setText,Chrome 59.0.3071.109,"enter your 'RIGHT' account\r\n(in this case, the ID textbox is always changed itself, \r\nso you should chang its description using contains, ends with or etc.)\r\n",2017-06-26 10:32:42,2017-06-26 10:33:13,31.249s,FAILED

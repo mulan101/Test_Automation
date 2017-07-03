@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_China_Mobile,Chrome 59.0.3071.115,,2017-06-28 11:21:04,2017-06-28 11:21:41,37.522s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01,Chrome 59.0.3071.115,,2017-06-28 11:21:04,2017-06-28 11:21:41,37.132s,FAILED
+openBrowser,Chrome 59.0.3071.115,,2017-06-28 11:21:05,2017-06-28 11:21:08,3.528s,PASSED
+setViewPortSize,Chrome 59.0.3071.115,iPhone 6 diplay size,2017-06-28 11:21:08,2017-06-28 11:21:10,1.248s,PASSED
+navigateToUrl,Chrome 59.0.3071.115,navigate to www.samsung.com/cn,2017-06-28 11:21:10,2017-06-28 11:21:10,0.358s,PASSED
+click,Chrome 59.0.3071.115,hit the menu button,2017-06-28 11:21:10,2017-06-28 11:21:41,31.328s,FAILED

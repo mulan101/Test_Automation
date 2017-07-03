@@ -1,0 +1,118 @@
+I 2017-07-03 17:59:50:605 server.cc(75) Starting WebDriver server on port: '32677' on host: ''
+T 2017-07-03 17:59:50:606 server.cc(595) Entering Server::PopulateCommandRepository
+T 2017-07-03 17:59:50:606 IEServer.cpp(29) Entering IEServer::IEServer
+T 2017-07-03 17:59:50:606 server.cc(91) Entering Server::Start
+D 2017-07-03 17:59:50:606 server.cc(113) Civetweb ACL is -0.0.0.0/0,+127.0.0.1
+T 2017-07-03 17:59:51:054 server.cc(139) Entering Server::ProcessRequest
+T 2017-07-03 17:59:51:054 server.cc(148) Process request with: URI: /status HTTP verb: GET
+body: {}
+T 2017-07-03 17:59:51:054 server.cc(237) Entering Server::DispatchCommand
+T 2017-07-03 17:59:51:054 server.cc(544) Entering Server::LookupCommand
+D 2017-07-03 17:59:51:054 server.cc(246) Command: GET /status {}
+T 2017-07-03 17:59:51:054 IEServer.cpp(49) Entering IEServer::GetStatus
+T 2017-07-03 17:59:51:054 response.cc(63) Entering Response::SetSuccessResponse
+T 2017-07-03 17:59:51:054 response.cc(69) Entering Response::SetResponse
+T 2017-07-03 17:59:51:054 response.cc(51) Entering Response::Serialize
+D 2017-07-03 17:59:51:054 server.cc(320) Response: {"sessionId":"","status":0,"value":{"build":{"version":"2.46.0.0"},"os":{"arch":"x64","name":"windows","version":"6.1.7601"}}}
+
+T 2017-07-03 17:59:51:054 server.cc(373) Entering Server::SendResponseToClient
+T 2017-07-03 17:59:51:054 response.cc(36) Entering Response::Deserialize
+T 2017-07-03 17:59:51:054 server.cc(427) Entering Server::SendHttpOk
+T 2017-07-03 17:59:51:231 server.cc(139) Entering Server::ProcessRequest
+T 2017-07-03 17:59:51:231 server.cc(203) Entering Server::ReadRequestBody
+T 2017-07-03 17:59:51:231 server.cc(148) Process request with: URI: /session HTTP verb: POST
+body: {"desiredCapabilities":{"proxy":{"proxyType":"direct"},"ie.usePerProcessProxy":"true"}}
+T 2017-07-03 17:59:51:231 server.cc(237) Entering Server::DispatchCommand
+T 2017-07-03 17:59:51:231 server.cc(544) Entering Server::LookupCommand
+D 2017-07-03 17:59:51:231 server.cc(246) Command: POST /session {"desiredCapabilities":{"proxy":{"proxyType":"direct"},"ie.usePerProcessProxy":"true"}}
+T 2017-07-03 17:59:51:231 IEServer.cpp(39) Entering IEServer::InitializeSession
+T 2017-07-03 17:59:51:231 IESession.cpp(37) Entering IESession::Initialize
+D 2017-07-03 17:59:51:231 IESession.cpp(52) Mutex acquired for session initalization
+D 2017-07-03 17:59:51:231 IESession.cpp(97) Using legacy driver implementation per user request
+T 2017-07-03 17:59:51:232 IECommandExecutor.cpp(406) Entering IECommandExecutor::ThreadProc
+T 2017-07-03 17:59:51:268 IECommandExecutor.cpp(93) Entering IECommandExecutor::OnCreate
+T 2017-07-03 17:59:51:269 IECommandExecutor.cpp(782) Entering IECommandExecutor::PopulateCommandHandlers
+T 2017-07-03 17:59:51:270 IECommandExecutor.cpp(769) Entering IECommandExecutor::PopulateElementFinderMethods
+T 2017-07-03 17:59:51:270 InputManager.cpp(37) Entering InputManager::InputManager
+T 2017-07-03 17:59:51:270 InputManager.cpp(60) Entering InputManager::Initialize
+T 2017-07-03 17:59:51:270 BrowserFactory.cpp(932) Entering BrowserFactory::GetExecutableLocation
+T 2017-07-03 17:59:51:272 BrowserFactory.cpp(973) Entering BrowserFactory::GetIEVersion
+T 2017-07-03 17:59:51:277 BrowserFactory.cpp(1024) Entering BrowserFactory::GetOSVersion
+T 2017-07-03 17:59:51:277 IESession.cpp(121) Created thread for command executor returns HWND: '00111F74'
+T 2017-07-03 17:59:51:278 IESession.cpp(125) Session id is retrived from command executor window: '4a055b09-8797-46b2-9e8a-7726056436f3'
+D 2017-07-03 17:59:51:278 IESession.cpp(131) Releasing session initialization mutex
+T 2017-07-03 17:59:51:278 IESession.cpp(215) Entering IESession::ExecuteCommand
+T 2017-07-03 17:59:51:278 IECommandExecutor.cpp(162) Entering IECommandExecutor::OnSetCommand
+T 2017-07-03 17:59:51:278 command.cc(31) Entering Command::Deserialize
+D 2017-07-03 17:59:51:278 command.cc(36) Raw JSON command: { "name" : "newSession", "locator" : { }, "parameters" : {"desiredCapabilities":{"proxy":{"proxyType":"direct"},"ie.usePerProcessProxy":"true"}} }
+T 2017-07-03 17:59:51:282 IECommandExecutor.cpp(173) Entering IECommandExecutor::OnExecCommand
+T 2017-07-03 17:59:51:282 IECommandExecutor.cpp(474) Entering IECommandExecutor::DispatchCommand
+T 2017-07-03 17:59:51:282 BrowserFactory.cpp(47) Entering BrowserFactory::Initialize
+W 2017-07-03 17:59:51:282 c:\projects\webdriver\cpp\iedriver\CommandHandlers/NewSessionCommandHandler.h(127) Invalid capability setting: ie.usePerProcessProxy is type string instead of boolean. Default value will be used: false
+
+T 2017-07-03 17:59:51:282 ProxyManager.cpp(73) ProxyManager::Initialize
+T 2017-07-03 17:59:51:283 IECommandExecutor.cpp(644) Entering IECommandExecutor::CreateNewBrowser
+T 2017-07-03 17:59:51:283 BrowserFactory.cpp(76) Entering BrowserFactory::LaunchBrowserProcess
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(80) Ignoring Protected Mode Settings: 0
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(83) Checking validity of Protected Mode settings.
+T 2017-07-03 17:59:51:283 BrowserFactory.cpp(1034) Entering BrowserFactory::ProtectedModeSettingsAreValid
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(1037) Detected IE version: 11, detected Windows version: 6
+T 2017-07-03 17:59:51:283 BrowserFactory.cpp(1110) Entering BrowserFactory::GetZoneProtectedModeSetting
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(1127) Found Protected Mode setting value of 3 for zone 1
+T 2017-07-03 17:59:51:283 BrowserFactory.cpp(1110) Entering BrowserFactory::GetZoneProtectedModeSetting
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(1127) Found Protected Mode setting value of 3 for zone 2
+T 2017-07-03 17:59:51:283 BrowserFactory.cpp(1110) Entering BrowserFactory::GetZoneProtectedModeSetting
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(1127) Found Protected Mode setting value of 3 for zone 3
+T 2017-07-03 17:59:51:283 BrowserFactory.cpp(1110) Entering BrowserFactory::GetZoneProtectedModeSetting
+D 2017-07-03 17:59:51:283 BrowserFactory.cpp(1127) Found Protected Mode setting value of 3 for zone 4
+D 2017-07-03 17:59:51:284 BrowserFactory.cpp(86) Has Valid Protected Mode Settings: 1
+T 2017-07-03 17:59:51:284 BrowserFactory.cpp(160) Entering BrowserFactory::IsIELaunchURLAvailable
+T 2017-07-03 17:59:51:297 BrowserFactory.cpp(64) Entering BrowserFactory::ClearCache
+T 2017-07-03 17:59:51:297 BrowserFactory.cpp(181) Entering BrowserFactory::LaunchBrowserUsingIELaunchURL
+D 2017-07-03 17:59:51:297 BrowserFactory.cpp(182) Starting IE using the IELaunchURL API
+D 2017-07-03 17:59:51:489 BrowserFactory.cpp(136) IE launched successfully with process ID 8664
+D 2017-07-03 17:59:51:489 BrowserFactory.cpp(142) Process with ID 8664 is executing iexplore.exe
+T 2017-07-03 17:59:51:489 BrowserFactory.cpp(299) Entering BrowserFactory::AttachToBrowser
+D 2017-07-03 17:59:51:489 BrowserFactory.cpp(309) Using Active Accessibility to find IWebBrowser2 interface
+T 2017-07-03 17:59:51:489 BrowserFactory.cpp(348) Entering BrowserFactory::AttachToBrowserUsingActiveAccessibility
+T 2017-07-03 17:59:52:986 server.cc(139) Entering Server::ProcessRequest
+T 2017-07-03 17:59:52:986 server.cc(148) Process request with: URI: / HTTP verb: GET
+body: {}
+T 2017-07-03 17:59:52:986 server.cc(427) Entering Server::SendHttpOk
+T 2017-07-03 17:59:53:471 server.cc(139) Entering Server::ProcessRequest
+T 2017-07-03 17:59:53:471 server.cc(148) Process request with: URI: /favicon.ico HTTP verb: GET
+body: {}
+T 2017-07-03 17:59:53:471 server.cc(237) Entering Server::DispatchCommand
+T 2017-07-03 17:59:53:471 server.cc(544) Entering Server::LookupCommand
+D 2017-07-03 17:59:53:471 server.cc(246) Command: GET /favicon.ico {}
+D 2017-07-03 17:59:53:471 server.cc(320) Response: { "status" : 404, "sessionId" : "<no session>", "value" : "Command not found: GET /favicon.ico" }
+T 2017-07-03 17:59:53:471 server.cc(373) Entering Server::SendResponseToClient
+T 2017-07-03 17:59:53:471 response.cc(36) Entering Response::Deserialize
+T 2017-07-03 17:59:53:471 server.cc(484) Entering Server::SendHttpNotFound
+D 2017-07-03 17:59:53:511 BrowserFactory.cpp(368) Found window handle 000A2226 for window with class 'Internet Explorer_Server' belonging to process with id 8664
+T 2017-07-03 17:59:53:511 BrowserFactory.cpp(263) Entering BrowserFactory::GetDocumentFromWindowHandle
+T 2017-07-03 17:59:53:511 IESession.cpp(236) Beginning wait for response length to be not zero
+D 2017-07-03 17:59:53:626 BrowserFactory.cpp(330) Ignoring zoom setting: 0
+T 2017-07-03 17:59:53:626 BrowserFactory.cpp(508) Entering BrowserFactory::GetBrowserZoomLevel
+T 2017-07-03 17:59:53:639 BrowserFactory.cpp(548) Entering BrowserFactory::GetZoomLevel
+D 2017-07-03 17:59:53:656 BrowserFactory.cpp(628) Browser zoom level is 114%
+W 2017-07-03 17:59:53:658 BrowserFactory.cpp(337) Browser zoom level was set to 114%. It should be set to 100%
+W 2017-07-03 17:59:53:658 IECommandExecutor.cpp(660) Unable to attach to browser COM object
+T 2017-07-03 17:59:53:658 response.cc(76) Entering Response::SetErrorResponse
+W 2017-07-03 17:59:53:658 response.cc(77) Error response has status code 6 and message 'Unexpected error launching Internet Explorer. Browser zoom level was set to 114%. It should be set to 100%' message
+T 2017-07-03 17:59:53:658 IECommandExecutor.cpp(590) Entering IECommandExecutor::GetCurrentBrowser
+T 2017-07-03 17:59:53:658 IECommandExecutor.cpp(596) Entering IECommandExecutor::GetManagedBrowser
+T 2017-07-03 17:59:53:658 IECommandExecutor.cpp(599) Current command executor is not valid
+W 2017-07-03 17:59:53:658 IECommandExecutor.cpp(537) Unable to get current browser
+T 2017-07-03 17:59:53:658 response.cc(51) Entering Response::Serialize
+T 2017-07-03 17:59:53:668 IESession.cpp(245) Found non-zero response length
+T 2017-07-03 17:59:53:668 IECommandExecutor.cpp(196) Entering IECommandExecutor::OnGetResponse
+T 2017-07-03 17:59:53:668 IECommandExecutor.cpp(311) Entering IECommandExecutor::OnIsSessionValid
+T 2017-07-03 17:59:53:668 response.cc(36) Entering Response::Deserialize
+T 2017-07-03 17:59:53:668 server.cc(190) Entering Server::ShutDownSession
+D 2017-07-03 17:59:53:668 server.cc(197) Shutdown session is not found
+D 2017-07-03 17:59:53:668 server.cc(320) Response: {"sessionId":"4a055b09-8797-46b2-9e8a-7726056436f3","status":6,"value":{"message":"Unexpected error launching Internet Explorer. Browser zoom level was set to 114%. It should be set to 100%"}}
+
+T 2017-07-03 17:59:53:668 server.cc(373) Entering Server::SendResponseToClient
+T 2017-07-03 17:59:53:668 response.cc(36) Entering Response::Deserialize
+T 2017-07-03 17:59:53:668 server.cc(465) Entering Server::SendHttpInternalError

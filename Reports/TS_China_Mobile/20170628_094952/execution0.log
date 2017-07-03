@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-28T09:49:56</date>
+  <millis>1498610996630</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : TS_China_Mobile</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TS_China_Mobile</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TS_China_Mobile</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:56</date>
+  <millis>1498610996672</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;User - 10.241.21.212&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">User - 10.241.21.212</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:56</date>
+  <millis>1498610996673</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 7 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:56</date>
+  <millis>1498610996674</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.241.21.212&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.241.21.212</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:56</date>
+  <millis>1498610996676</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;4.6.0.2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">4.6.0.2</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:57</date>
+  <millis>1498610997010</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01</property>
+  <property name="source">C:\\Users\\User\\git\\Test_AutomationTest Cases\\SCENARIO_TEST\\CHINA\\Mobile\\TC_mobile_01.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:57</date>
+  <millis>1498610997177</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:49:57</date>
+  <millis>1498610997527</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2017-06-28T09:49:57</date>
+  <millis>1498610997828</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:49:57</date>
+  <millis>1498610997991</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001455</millis>
+  <sequence>10</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;5da08a15-bc02-4c07-9d5f-f1c7efee10b0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">5da08a15-bc02-4c07-9d5f-f1c7efee10b0</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001496</millis>
+  <sequence>11</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Firefox 53.0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 53.0</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001497</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001499</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;2.53.0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">2.53.0</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001500</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001501</millis>
+  <sequence>15</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001502</millis>
+  <sequence>16</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001503</millis>
+  <sequence>17</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setViewPortSize</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">2</property>
+  <property name="description">iPhone 6 diplay size</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001523</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking width</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001524</millis>
+  <sequence>19</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking height</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001593</millis>
+  <sequence>20</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Viewport is set to new size with width = 375 and height = 667</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001595</millis>
+  <sequence>21</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setViewPortSize</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001595</millis>
+  <sequence>22</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">3</property>
+  <property name="description">navigate to www.samsung.com/cn</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001616</millis>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:01</date>
+  <millis>1498611001618</millis>
+  <sequence>24</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;http://www.samsung.com/cn/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005591</millis>
+  <sequence>25</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.samsung.com/cn/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005592</millis>
+  <sequence>26</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005592</millis>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">4</property>
+  <property name="description">hit the menu button</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005598</millis>
+  <sequence>28</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/01. button_s-svg s-gnb-toggler&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005616</millis>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005617</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:05</date>
+  <millis>1498611005620</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/01. button_s-svg s-gnb-toggler&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;header\&amp;quot;)/div[@class=\&amp;quot;cm-g-gnb gnb\&amp;quot;]/nav[@class=\&amp;quot;gb-gnb\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar-inner\&amp;quot;]/button[@class=\&amp;quot;s-svg s-gnb-toggler\&amp;quot;]) = count(id(\&amp;quot;header\&amp;quot;)/div[@class=\&amp;quot;cm-g-gnb gnb\&amp;quot;]/nav[@class=\&amp;quot;gb-gnb\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar-inner\&amp;quot;]/button[@class=\&amp;quot;s-svg s-gnb-toggler\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006795</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/01. button_s-svg s-gnb-toggler&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;header\&amp;quot;)/div[@class=\&amp;quot;cm-g-gnb gnb\&amp;quot;]/nav[@class=\&amp;quot;gb-gnb\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar-inner\&amp;quot;]/button[@class=\&amp;quot;s-svg s-gnb-toggler\&amp;quot;]) = count(id(\&amp;quot;header\&amp;quot;)/div[@class=\&amp;quot;cm-g-gnb gnb\&amp;quot;]/nav[@class=\&amp;quot;gb-gnb\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar\&amp;quot;]/div[@class=\&amp;quot;gb-gnb__bar-inner\&amp;quot;]/button[@class=\&amp;quot;s-svg s-gnb-toggler\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006796</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/01. button_s-svg s-gnb-toggler&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006898</millis>
+  <sequence>34</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/01. button_s-svg s-gnb-toggler&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006899</millis>
+  <sequence>35</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006900</millis>
+  <sequence>36</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006901</millis>
+  <sequence>37</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/02. a_TV&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006907</millis>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006907</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006908</millis>
+  <sequence>40</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/02. a_TV&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;mobile_left\&amp;quot;)/li[2]/a[@class=\&amp;quot;s-depth1-link\&amp;quot;]) = count(id(\&amp;quot;mobile_left\&amp;quot;)/li[2]/a[@class=\&amp;quot;s-depth1-link\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006950</millis>
+  <sequence>41</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/02. a_TV&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;mobile_left\&amp;quot;)/li[2]/a[@class=\&amp;quot;s-depth1-link\&amp;quot;]) = count(id(\&amp;quot;mobile_left\&amp;quot;)/li[2]/a[@class=\&amp;quot;s-depth1-link\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:06</date>
+  <millis>1498611006951</millis>
+  <sequence>42</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/02. a_TV&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007099</millis>
+  <sequence>43</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/02. a_TV&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007099</millis>
+  <sequence>44</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007100</millis>
+  <sequence>45</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007101</millis>
+  <sequence>46</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/03. a_Premium UHD TV&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007107</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007108</millis>
+  <sequence>48</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007109</millis>
+  <sequence>49</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/03. a_Premium UHD TV&amp;apos; located by &amp;apos;By.xpath: //a[count(. | //*[@id=\&amp;quot;header\&amp;quot;]/div[4]/nav/div[2]/div/div[1]/div/div/ul/li[1]/ul/li[2]/a) = count(//*[@id=\&amp;quot;header\&amp;quot;]/div[4]/nav/div[2]/div/div[1]/div/div/ul/li[1]/ul/li[2]/a)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007691</millis>
+  <sequence>50</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/03. a_Premium UHD TV&amp;apos; located by &amp;apos;By.xpath: //a[count(. | //*[@id=\&amp;quot;header\&amp;quot;]/div[4]/nav/div[2]/div/div[1]/div/div/ul/li[1]/ul/li[2]/a) = count(//*[@id=\&amp;quot;header\&amp;quot;]/div[4]/nav/div[2]/div/div[1]/div/div/ul/li[1]/ul/li[2]/a)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007692</millis>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/03. a_Premium UHD TV&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007829</millis>
+  <sequence>52</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/01. Page_/03. a_Premium UHD TV&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007830</millis>
+  <sequence>53</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007830</millis>
+  <sequence>54</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007831</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/04. button_&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007838</millis>
+  <sequence>56</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007840</millis>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:07</date>
+  <millis>1498611007841</millis>
+  <sequence>58</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/04. button_&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;]/button[@class=\&amp;quot;filter-sort__results-btn\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;]/button[@class=\&amp;quot;filter-sort__results-btn\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014059</millis>
+  <sequence>59</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/04. button_&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;]/button[@class=\&amp;quot;filter-sort__results-btn\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;]/button[@class=\&amp;quot;filter-sort__results-btn\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014059</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/04. button_&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014214</millis>
+  <sequence>61</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/04. button_&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014215</millis>
+  <sequence>62</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014215</millis>
+  <sequence>63</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014219</millis>
+  <sequence>64</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/05. a_&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014226</millis>
+  <sequence>65</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014226</millis>
+  <sequence>66</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:14</date>
+  <millis>1498611014227</millis>
+  <sequence>67</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/05. a_&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list\&amp;quot;]/a[@class=\&amp;quot;filter-sort__list-title\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list\&amp;quot;]/a[@class=\&amp;quot;filter-sort__list-title\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015193</millis>
+  <sequence>68</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/05. a_&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list\&amp;quot;]/a[@class=\&amp;quot;filter-sort__list-title\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list\&amp;quot;]/a[@class=\&amp;quot;filter-sort__list-title\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015194</millis>
+  <sequence>69</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/05. a_&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015284</millis>
+  <sequence>70</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/05. a_&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015285</millis>
+  <sequence>71</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015285</millis>
+  <sequence>72</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">42</property>
+  <property name="stepIndex">9</property>
+  <property name="description">do not hit the square box, becasue it changes into black when you mouseover\r\n</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015287</millis>
+  <sequence>73</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/06.p_Premium UHD TV&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015306</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015307</millis>
+  <sequence>75</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:15</date>
+  <millis>1498611015308</millis>
+  <sequence>76</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/06.p_Premium UHD TV&amp;apos; located by &amp;apos;By.xpath: //p[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list active\&amp;quot;]/div[@class=\&amp;quot;filter-sort__item\&amp;quot;]/ul[1]/li[2]/label[1]/p[@class=\&amp;quot;filter-sort__text\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list active\&amp;quot;]/div[@class=\&amp;quot;filter-sort__item\&amp;quot;]/ul[1]/li[2]/label[1]/p[@class=\&amp;quot;filter-sort__text\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016746</millis>
+  <sequence>77</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/06.p_Premium UHD TV&amp;apos; located by &amp;apos;By.xpath: //p[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list active\&amp;quot;]/div[@class=\&amp;quot;filter-sort__item\&amp;quot;]/ul[1]/li[2]/label[1]/p[@class=\&amp;quot;filter-sort__text\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__left js-filter-left-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__fix-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list-wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__list active\&amp;quot;]/div[@class=\&amp;quot;filter-sort__item\&amp;quot;]/ul[1]/li[2]/label[1]/p[@class=\&amp;quot;filter-sort__text\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016747</millis>
+  <sequence>78</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/06.p_Premium UHD TV&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016869</millis>
+  <sequence>79</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/02. Page_ - SUHD Curved TV UHD TVFULL H/06.p_Premium UHD TV&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016871</millis>
+  <sequence>80</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016872</millis>
+  <sequence>81</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">10</property>
+  <property name="description">07. button_ doesn&apos;t work. why???</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016872</millis>
+  <sequence>82</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/07. div_filter-sort__results-mo&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016877</millis>
+  <sequence>83</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016878</millis>
+  <sequence>84</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:16</date>
+  <millis>1498611016878</millis>
+  <sequence>85</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/07. div_filter-sort__results-mo&amp;apos; located by &amp;apos;By.xpath: //div[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019765</millis>
+  <sequence>86</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/07. div_filter-sort__results-mo&amp;apos; located by &amp;apos;By.xpath: //div[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__menu\&amp;quot;]/div[@class=\&amp;quot;filter-sort__results-mo\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019766</millis>
+  <sequence>87</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/07. div_filter-sort__results-mo&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019914</millis>
+  <sequence>88</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/07. div_filter-sort__results-mo&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019915</millis>
+  <sequence>89</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019915</millis>
+  <sequence>90</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">48</property>
+  <property name="stepIndex">11</property>
+  <property name="description">image rotation part</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019916</millis>
+  <sequence>91</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/img_js-img-src imgCylinder-img&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019919</millis>
+  <sequence>92</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019919</millis>
+  <sequence>93</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:19</date>
+  <millis>1498611019919</millis>
+  <sequence>94</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/img_js-img-src imgCylinder-img&amp;apos; located by &amp;apos;By.xpath: //img[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__grid-wrap\&amp;quot;]/div[@class=\&amp;quot;product-grid\&amp;quot;]/div[@class=\&amp;quot;product-list product-grid--trisection\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap-inner\&amp;quot;]/div[@class=\&amp;quot;product-card\&amp;quot;]/div[@class=\&amp;quot;product-card__img\&amp;quot;]/a[@class=\&amp;quot;product-card__img-link s-slick js-product-grid-carousel product-card-pdp-link slick-initialized slick-slider\&amp;quot;]/div[@class=\&amp;quot;slick-list draggable\&amp;quot;]/div[@class=\&amp;quot;slick-track\&amp;quot;]/div[@class=\&amp;quot;product-card__img-wrap slick-slide slick-current slick-active slick-center\&amp;quot;]/span[@class=\&amp;quot;product-card__img-inner\&amp;quot;]/img[@class=\&amp;quot;js-img-src imgCylinder-img\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__grid-wrap\&amp;quot;]/div[@class=\&amp;quot;product-grid\&amp;quot;]/div[@class=\&amp;quot;product-list product-grid--trisection\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap-inner\&amp;quot;]/div[@class=\&amp;quot;product-card\&amp;quot;]/div[@class=\&amp;quot;product-card__img\&amp;quot;]/a[@class=\&amp;quot;product-card__img-link s-slick js-product-grid-carousel product-card-pdp-link slick-initialized slick-slider\&amp;quot;]/div[@class=\&amp;quot;slick-list draggable\&amp;quot;]/div[@class=\&amp;quot;slick-track\&amp;quot;]/div[@class=\&amp;quot;product-card__img-wrap slick-slide slick-current slick-active slick-center\&amp;quot;]/span[@class=\&amp;quot;product-card__img-inner\&amp;quot;]/img[@class=\&amp;quot;js-img-src imgCylinder-img\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020349</millis>
+  <sequence>95</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 2 web elements with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/img_js-img-src imgCylinder-img&amp;apos; located by &amp;apos;By.xpath: //img[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__grid-wrap\&amp;quot;]/div[@class=\&amp;quot;product-grid\&amp;quot;]/div[@class=\&amp;quot;product-list product-grid--trisection\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap-inner\&amp;quot;]/div[@class=\&amp;quot;product-card\&amp;quot;]/div[@class=\&amp;quot;product-card__img\&amp;quot;]/a[@class=\&amp;quot;product-card__img-link s-slick js-product-grid-carousel product-card-pdp-link slick-initialized slick-slider\&amp;quot;]/div[@class=\&amp;quot;slick-list draggable\&amp;quot;]/div[@class=\&amp;quot;slick-track\&amp;quot;]/div[@class=\&amp;quot;product-card__img-wrap slick-slide slick-current slick-active slick-center\&amp;quot;]/span[@class=\&amp;quot;product-card__img-inner\&amp;quot;]/img[@class=\&amp;quot;js-img-src imgCylinder-img\&amp;quot;]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;product-filter-grid\&amp;quot;]/div[@class=\&amp;quot;product-filter-grid__grid-wrap\&amp;quot;]/div[@class=\&amp;quot;product-grid\&amp;quot;]/div[@class=\&amp;quot;product-list product-grid--trisection\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap\&amp;quot;]/div[@class=\&amp;quot;product-card__wrap-inner\&amp;quot;]/div[@class=\&amp;quot;product-card\&amp;quot;]/div[@class=\&amp;quot;product-card__img\&amp;quot;]/a[@class=\&amp;quot;product-card__img-link s-slick js-product-grid-carousel product-card-pdp-link slick-initialized slick-slider\&amp;quot;]/div[@class=\&amp;quot;slick-list draggable\&amp;quot;]/div[@class=\&amp;quot;slick-track\&amp;quot;]/div[@class=\&amp;quot;product-card__img-wrap slick-slide slick-current slick-active slick-center\&amp;quot;]/span[@class=\&amp;quot;product-card__img-inner\&amp;quot;]/img[@class=\&amp;quot;js-img-src imgCylinder-img\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020351</millis>
+  <sequence>96</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/img_js-img-src imgCylinder-img&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020473</millis>
+  <sequence>97</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/img_js-img-src imgCylinder-img&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020474</millis>
+  <sequence>98</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020474</millis>
+  <sequence>99</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">50</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020475</millis>
+  <sequence>100</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020491</millis>
+  <sequence>101</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020492</millis>
+  <sequence>102</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking value parameter</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020492</millis>
+  <sequence>103</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:20</date>
+  <millis>1498611020493</millis>
+  <sequence>104</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select&amp;apos; located by &amp;apos;By.xpath: //select[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__filter-select-mo\&amp;quot;]/select[1]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__filter-select-mo\&amp;quot;]/select[1])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:54</date>
+  <millis>1498611054015</millis>
+  <sequence>105</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to select option by value &amp;apos;mostclicked&amp;apos; of object &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select&amp;apos;  using regular expression (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select&amp;apos; located by &amp;apos;By.xpath: //select[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__filter-select-mo\&amp;quot;]/select[1]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__filter-select-mo\&amp;quot;]/select[1])]&amp;apos; not found)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">1498611051749.png</property>
+</record>
+<record>
+  <date>2017-06-28T09:50:54</date>
+  <millis>1498611054016</millis>
+  <sequence>106</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:54</date>
+  <millis>1498611054017</millis>
+  <sequence>107</sequence>
+  <logger>com.kms.katalon.core.logging.KeywordLogger</logger>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01 FAILED because (of) Unable to select option by value &amp;apos;mostclicked&amp;apos; of object &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select&amp;apos;  using regular expression (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: &amp;apos;Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select&amp;apos; located by &amp;apos;By.xpath: //select[count(. | id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__filter-select-mo\&amp;quot;]/select[1]) = count(id(\&amp;quot;content\&amp;quot;)/div[@class=\&amp;quot;js-fs-blank\&amp;quot;]/div[@class=\&amp;quot;filter-sort js-fs-top-fix\&amp;quot;]/div[@class=\&amp;quot;filter-sort__wrap\&amp;quot;]/div[@class=\&amp;quot;filter-sort__filter-select-mo\&amp;quot;]/select[1])]&amp;apos; not found)</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'mostclicked' of object 'Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select'  using regular expression (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/SCENARIO_TEST/CHINA/Mobile/03. Page_ - SUHD Curved TV UHD TVFULL H (1)/select' located by 'By.xpath: //select[count(. | id("content")/div[@class="js-fs-blank"]/div[@class="filter-sort js-fs-top-fix"]/div[@class="filter-sort__wrap"]/div[@class="filter-sort__filter-select-mo"]/select[1]) = count(id("content")/div[@class="js-fs-blank"]/div[@class="filter-sort js-fs-top-fix"]/div[@class="filter-sort__wrap"]/div[@class="filter-sort__filter-select-mo"]/select[1])]' not found)</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>28</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>27</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword</class>
+      <method>selectOptionByValue</method>
+      <line>93</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword</class>
+      <method>execute</method>
+      <line>69</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>selectOptionByValue</method>
+      <line>1008</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$3</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>Script1498116161684</class>
+      <method>run</method>
+      <line>50</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>204</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>183</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>175</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>158</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>runTestCase</method>
+      <line>102</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$runTestCase$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1498610994925</class>
+      <method>runTestCase_0</method>
+      <line>18</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.reflection.CachedMethod</class>
+      <method>invoke</method>
+      <line>93</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.MetaMethod</class>
+      <method>doMethodInvoke</method>
+      <line>325</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.metaclass.ClosureMetaClass</class>
+      <method>invokeMethod</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.ScriptBytecodeAdapter</class>
+      <method>invokeMethodOnCurrentN</method>
+      <line>82</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.ScriptBytecodeAdapter</class>
+      <method>invokeMethodOnCurrent0</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1498610994925$_run_closure1</class>
+      <method>doCall</method>
+      <line>44</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.reflection.CachedMethod</class>
+      <method>invoke</method>
+      <line>93</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.MetaMethod</class>
+      <method>doMethodInvoke</method>
+      <line>325</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.metaclass.ClosureMetaClass</class>
+      <method>invokeMethod</method>
+      <line>294</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.MetaClassImpl</class>
+      <method>invokeMethod</method>
+      <line>1024</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.Closure</class>
+      <method>call</method>
+      <line>414</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.Closure</class>
+      <method>call</method>
+      <line>430</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.DefaultGroovyMethods</class>
+      <method>each</method>
+      <line>2030</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.DefaultGroovyMethods</class>
+      <method>each</method>
+      <line>2015</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.DefaultGroovyMethods</class>
+      <method>each</method>
+      <line>2056</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.dgm$162</class>
+      <method>invoke</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoMetaMethodSiteNoUnwrapNoCoerce</class>
+      <method>invoke</method>
+      <line>274</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite</class>
+      <method>call</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>125</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1498610994925</class>
+      <method>run</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>runScriptOrMainOrTestOrRunnable</method>
+      <line>263</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>518</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>507</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processOnce</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>run</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>process</method>
+      <line>370</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processArgs</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>main</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>rootLoader</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>main</method>
+      <line>131</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:54</date>
+  <millis>1498611054018</millis>
+  <sequence>108</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-06-28T09:50:54</date>
+  <millis>1498611054019</millis>
+  <sequence>109</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : TS_China_Mobile</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

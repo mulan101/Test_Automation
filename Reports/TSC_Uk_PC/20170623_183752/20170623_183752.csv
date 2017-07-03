@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TSC_UK_PC,Chrome 59.0.3071.109,,2017-06-23 18:37:56,2017-06-23 18:38:15,19.145s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01,Chrome 59.0.3071.109,,2017-06-23 18:37:56,2017-06-23 18:38:15,18.762s,FAILED
+openBrowser,Chrome 59.0.3071.109,open browser,2017-06-23 18:37:57,2017-06-23 18:38:00,3.370s,PASSED
+navigateToUrl,Chrome 59.0.3071.109,"go to \""https://shop.samsung.com/uk/\""",2017-06-23 18:38:00,2017-06-23 18:38:14,14.176s,PASSED
+click,Chrome 59.0.3071.109,hit a 'sign in' button,2017-06-23 18:38:14,2017-06-23 18:38:15,0.655s,FAILED

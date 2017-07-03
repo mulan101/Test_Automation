@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply</name>
+   <tag></tag>
+   <elementGuidId>88c87f74-1f3c-4c86-8d83-d02559332607</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;basket-checkout&quot;]/div[@class=&quot;constrain-max&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;large-4 medium-5 columns&quot;]/div[@class=&quot;basket__secondary&quot;]/form[@id=&quot;checkout&quot;]/div[@class=&quot;basket-section basket__voucher&quot;]/ul[@class=&quot;basket__voucher-list reset-list&quot;]/li[@class=&quot;basket__voucher-submit&quot;]/button[@class=&quot;button button--medium button--no-margin button--bg-trans&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--medium button--no-margin button--bg-trans</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click:applyVoucher</value>
+   </webElementProperties>
+</WebElementEntity>

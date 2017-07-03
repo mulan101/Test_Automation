@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863106</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : TSC_UK_PC</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TSC_UK_PC</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TSC_UK_PC</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863137</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;User - 10.241.21.212&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">User - 10.241.21.212</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863137</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 7 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863138</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.241.21.212&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.241.21.212</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863139</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;4.6.0.2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">4.6.0.2</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863452</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01</property>
+  <property name="source">C:\\Users\\User\\git\\Test_AutomationTest Cases\\SCENARIO_TEST\\UNITED_KINGDOM\\PC\\TC_pc_01.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863652</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:23</date>
+  <millis>1498203863938</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:24</date>
+  <millis>1498203864272</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:24</date>
+  <millis>1498203864509</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867139</millis>
+  <sequence>10</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;23df3a61e85aa6647d0ba578d9748edf&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">23df3a61e85aa6647d0ba578d9748edf</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867172</millis>
+  <sequence>11</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Chrome 59.0.3071.109&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 59.0.3071.109</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867173</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867175</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;2.53.0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">2.53.0</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867176</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867177</millis>
+  <sequence>15</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867178</millis>
+  <sequence>16</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867178</millis>
+  <sequence>17</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : maximizeWindow</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:27</date>
+  <millis>1498203867203</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Maximizing current window</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:28</date>
+  <millis>1498203868385</millis>
+  <sequence>19</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Current window maximized</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:28</date>
+  <millis>1498203868385</millis>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : maximizeWindow</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:28</date>
+  <millis>1498203868386</millis>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:28</date>
+  <millis>1498203868400</millis>
+  <sequence>22</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:28</date>
+  <millis>1498203868400</millis>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;https://shop.samsung.com/uk/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882382</millis>
+  <sequence>24</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://shop.samsung.com/uk/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882383</millis>
+  <sequence>25</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882383</millis>
+  <sequence>26</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882926</millis>
+  <sequence>27</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203882395.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882928</millis>
+  <sequence>28</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882929</millis>
+  <sequence>29</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882935</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882955</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882966</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:42</date>
+  <millis>1498203882966</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_Sign In&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;signInButton\&amp;quot;)) = count(id(\&amp;quot;signInButton\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883021</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_Sign In&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;signInButton\&amp;quot;)) = count(id(\&amp;quot;signInButton\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883021</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883134</millis>
+  <sequence>36</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_Sign In&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883135</millis>
+  <sequence>37</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883135</millis>
+  <sequence>38</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">29</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883696</millis>
+  <sequence>39</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203883136.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883697</millis>
+  <sequence>40</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883701</millis>
+  <sequence>41</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883703</millis>
+  <sequence>42</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883757</millis>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883758</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883758</millis>
+  <sequence>45</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883760</millis>
+  <sequence>46</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserEmail\&amp;quot;)) = count(id(\&amp;quot;UserEmail\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883797</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserEmail\&amp;quot;)) = count(id(\&amp;quot;UserEmail\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883798</millis>
+  <sequence>48</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883858</millis>
+  <sequence>49</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883860</millis>
+  <sequence>50</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserEmail\&amp;quot;)) = count(id(\&amp;quot;UserEmail\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883874</millis>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserEmail\&amp;quot;)) = count(id(\&amp;quot;UserEmail\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:43</date>
+  <millis>1498203883875</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Setting text of object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos; to value &amp;apos;sang-mook.kim@kr.ey.com&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884021</millis>
+  <sequence>53</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;sang-mook.kim@kr.ey.com&amp;apos; is set on object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnID&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884021</millis>
+  <sequence>54</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884022</millis>
+  <sequence>55</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884547</millis>
+  <sequence>56</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203884023.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884547</millis>
+  <sequence>57</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884549</millis>
+  <sequence>58</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884549</millis>
+  <sequence>59</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884554</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884554</millis>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884555</millis>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884556</millis>
+  <sequence>63</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserPass\&amp;quot;)) = count(id(\&amp;quot;UserPass\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884610</millis>
+  <sequence>64</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserPass\&amp;quot;)) = count(id(\&amp;quot;UserPass\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884613</millis>
+  <sequence>65</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884665</millis>
+  <sequence>66</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884666</millis>
+  <sequence>67</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserPass\&amp;quot;)) = count(id(\&amp;quot;UserPass\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884683</millis>
+  <sequence>68</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;UserPass\&amp;quot;)) = count(id(\&amp;quot;UserPass\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884684</millis>
+  <sequence>69</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Setting text of object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos; to value &amp;apos;test!test2&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884772</millis>
+  <sequence>70</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;test!test2&amp;apos; is set on object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK (1)/input_svcIptLgnPD&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884773</millis>
+  <sequence>71</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:44</date>
+  <millis>1498203884773</millis>
+  <sequence>72</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885285</millis>
+  <sequence>73</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203884774.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885286</millis>
+  <sequence>74</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885287</millis>
+  <sequence>75</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">34</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885288</millis>
+  <sequence>76</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_SIGN IN_2&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885293</millis>
+  <sequence>77</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885293</millis>
+  <sequence>78</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885294</millis>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_SIGN IN_2&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;SloginForm\&amp;quot;)/fieldset[1]/div[@class=\&amp;quot;signin-lb__inner\&amp;quot;]/div[@class=\&amp;quot;popup_cont\&amp;quot;]/div[@class=\&amp;quot;signin-lb__row signin-lb__row--center\&amp;quot;]/a[@class=\&amp;quot;button sign-in-btn\&amp;quot;]) = count(id(\&amp;quot;SloginForm\&amp;quot;)/fieldset[1]/div[@class=\&amp;quot;signin-lb__inner\&amp;quot;]/div[@class=\&amp;quot;popup_cont\&amp;quot;]/div[@class=\&amp;quot;signin-lb__row signin-lb__row--center\&amp;quot;]/a[@class=\&amp;quot;button sign-in-btn\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885333</millis>
+  <sequence>80</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_SIGN IN_2&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;SloginForm\&amp;quot;)/fieldset[1]/div[@class=\&amp;quot;signin-lb__inner\&amp;quot;]/div[@class=\&amp;quot;popup_cont\&amp;quot;]/div[@class=\&amp;quot;signin-lb__row signin-lb__row--center\&amp;quot;]/a[@class=\&amp;quot;button sign-in-btn\&amp;quot;]) = count(id(\&amp;quot;SloginForm\&amp;quot;)/fieldset[1]/div[@class=\&amp;quot;signin-lb__inner\&amp;quot;]/div[@class=\&amp;quot;popup_cont\&amp;quot;]/div[@class=\&amp;quot;signin-lb__row signin-lb__row--center\&amp;quot;]/a[@class=\&amp;quot;button sign-in-btn\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:45</date>
+  <millis>1498203885334</millis>
+  <sequence>81</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_SIGN IN_2&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893182</millis>
+  <sequence>82</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/a_SIGN IN_2&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893182</millis>
+  <sequence>83</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893183</millis>
+  <sequence>84</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893690</millis>
+  <sequence>85</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203893185.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893691</millis>
+  <sequence>86</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893692</millis>
+  <sequence>87</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893694</millis>
+  <sequence>88</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/li_SHOP NOW&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893699</millis>
+  <sequence>89</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893700</millis>
+  <sequence>90</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893700</millis>
+  <sequence>91</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/li_SHOP NOW&amp;apos; located by &amp;apos;By.xpath: //li[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;home__sl\&amp;quot;]/div[@class=\&amp;quot;home__sl-primary\&amp;quot;]/div[@class=\&amp;quot;row collapse\&amp;quot;]/div[@class=\&amp;quot;medium-6 columns\&amp;quot;]/a[@class=\&amp;quot;home__sl-primary-item home__sl-primary-item--p1 dark\&amp;quot;]/ul[@class=\&amp;quot;home__sl-primary-item-panel reset-list\&amp;quot;]/li[@class=\&amp;quot;home__sl-primary-item-cta\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;home__sl\&amp;quot;]/div[@class=\&amp;quot;home__sl-primary\&amp;quot;]/div[@class=\&amp;quot;row collapse\&amp;quot;]/div[@class=\&amp;quot;medium-6 columns\&amp;quot;]/a[@class=\&amp;quot;home__sl-primary-item home__sl-primary-item--p1 dark\&amp;quot;]/ul[@class=\&amp;quot;home__sl-primary-item-panel reset-list\&amp;quot;]/li[@class=\&amp;quot;home__sl-primary-item-cta\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893753</millis>
+  <sequence>92</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/li_SHOP NOW&amp;apos; located by &amp;apos;By.xpath: //li[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;home__sl\&amp;quot;]/div[@class=\&amp;quot;home__sl-primary\&amp;quot;]/div[@class=\&amp;quot;row collapse\&amp;quot;]/div[@class=\&amp;quot;medium-6 columns\&amp;quot;]/a[@class=\&amp;quot;home__sl-primary-item home__sl-primary-item--p1 dark\&amp;quot;]/ul[@class=\&amp;quot;home__sl-primary-item-panel reset-list\&amp;quot;]/li[@class=\&amp;quot;home__sl-primary-item-cta\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;home__sl\&amp;quot;]/div[@class=\&amp;quot;home__sl-primary\&amp;quot;]/div[@class=\&amp;quot;row collapse\&amp;quot;]/div[@class=\&amp;quot;medium-6 columns\&amp;quot;]/a[@class=\&amp;quot;home__sl-primary-item home__sl-primary-item--p1 dark\&amp;quot;]/ul[@class=\&amp;quot;home__sl-primary-item-panel reset-list\&amp;quot;]/li[@class=\&amp;quot;home__sl-primary-item-cta\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:44:53</date>
+  <millis>1498203893754</millis>
+  <sequence>93</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/li_SHOP NOW&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901266</millis>
+  <sequence>94</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Home  Samsung Store UK/li_SHOP NOW&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901267</millis>
+  <sequence>95</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901267</millis>
+  <sequence>96</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901721</millis>
+  <sequence>97</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203901268.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901722</millis>
+  <sequence>98</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901722</millis>
+  <sequence>99</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">38</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901723</millis>
+  <sequence>100</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/li_colour-swatch__item js-list&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901728</millis>
+  <sequence>101</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901728</millis>
+  <sequence>102</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:01</date>
+  <millis>1498203901729</millis>
+  <sequence>103</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/li_colour-swatch__item js-list&amp;apos; located by &amp;apos;By.xpath: //li[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-inner\&amp;quot;]/ul[@class=\&amp;quot;listing__product-list reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch colour-swatch--listing\&amp;quot;]/ul[@class=\&amp;quot;reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch__item js-listing-swatch\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-inner\&amp;quot;]/ul[@class=\&amp;quot;listing__product-list reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch colour-swatch--listing\&amp;quot;]/ul[@class=\&amp;quot;reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch__item js-listing-swatch\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902219</millis>
+  <sequence>104</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 80 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/li_colour-swatch__item js-list&amp;apos; located by &amp;apos;By.xpath: //li[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-inner\&amp;quot;]/ul[@class=\&amp;quot;listing__product-list reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch colour-swatch--listing\&amp;quot;]/ul[@class=\&amp;quot;reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch__item js-listing-swatch\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-inner\&amp;quot;]/ul[@class=\&amp;quot;listing__product-list reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch colour-swatch--listing\&amp;quot;]/ul[@class=\&amp;quot;reset-list\&amp;quot;]/li[@class=\&amp;quot;colour-swatch__item js-listing-swatch\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902220</millis>
+  <sequence>105</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/li_colour-swatch__item js-list&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902343</millis>
+  <sequence>106</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/li_colour-swatch__item js-list&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902345</millis>
+  <sequence>107</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902345</millis>
+  <sequence>108</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902892</millis>
+  <sequence>109</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203902346.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902893</millis>
+  <sequence>110</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902893</millis>
+  <sequence>111</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">40</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902894</millis>
+  <sequence>112</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/button_Add to basket&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902899</millis>
+  <sequence>113</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902899</millis>
+  <sequence>114</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:02</date>
+  <millis>1498203902900</millis>
+  <sequence>115</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/button_Add to basket&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-a2b\&amp;quot;]/form[1]/button[@class=\&amp;quot;listing__product-a2b-button button button--white-bg button--black-hover\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-a2b\&amp;quot;]/form[1]/button[@class=\&amp;quot;listing__product-a2b-button button button--white-bg button--black-hover\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:03</date>
+  <millis>1498203903523</millis>
+  <sequence>116</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/button_Add to basket&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-a2b\&amp;quot;]/form[1]/button[@class=\&amp;quot;listing__product-a2b-button button button--white-bg button--black-hover\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;listing\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;xlarge-10 large-9 column\&amp;quot;]/div[@class=\&amp;quot;clearfix listing__products listing__products--id-5357\&amp;quot;]/div[@class=\&amp;quot;listing__product js-listing-product\&amp;quot;]/div[@class=\&amp;quot;listing__product-a2b\&amp;quot;]/form[1]/button[@class=\&amp;quot;listing__product-a2b-button button button--white-bg button--black-hover\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:03</date>
+  <millis>1498203903524</millis>
+  <sequence>117</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/button_Add to basket&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:07</date>
+  <millis>1498203907871</millis>
+  <sequence>118</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_GALAXY S Series  Samsung Store/button_Add to basket&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:07</date>
+  <millis>1498203907872</millis>
+  <sequence>119</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:07</date>
+  <millis>1498203907872</millis>
+  <sequence>120</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">41</property>
+  <property name="stepIndex">18</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908488</millis>
+  <sequence>121</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203907872.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908489</millis>
+  <sequence>122</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908489</millis>
+  <sequence>123</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">42</property>
+  <property name="stepIndex">19</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908490</millis>
+  <sequence>124</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your basket  SAMSUNG UK Samsun/a_Proceed to Checkout&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908494</millis>
+  <sequence>125</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908495</millis>
+  <sequence>126</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908495</millis>
+  <sequence>127</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your basket  SAMSUNG UK Samsun/a_Proceed to Checkout&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;a2b__added reset-list\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout-wrap\&amp;quot;]/a[@class=\&amp;quot;button button--has-chevron\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;a2b__added reset-list\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout-wrap\&amp;quot;]/a[@class=\&amp;quot;button button--has-chevron\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908548</millis>
+  <sequence>128</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your basket  SAMSUNG UK Samsun/a_Proceed to Checkout&amp;apos; located by &amp;apos;By.xpath: //a[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;a2b__added reset-list\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout-wrap\&amp;quot;]/a[@class=\&amp;quot;button button--has-chevron\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;a2b__added reset-list\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout\&amp;quot;]/div[@class=\&amp;quot;a2b__added-goto-checkout-wrap\&amp;quot;]/a[@class=\&amp;quot;button button--has-chevron\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:08</date>
+  <millis>1498203908549</millis>
+  <sequence>129</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your basket  SAMSUNG UK Samsun/a_Proceed to Checkout&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918006</millis>
+  <sequence>130</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your basket  SAMSUNG UK Samsun/a_Proceed to Checkout&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918006</millis>
+  <sequence>131</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918006</millis>
+  <sequence>132</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">43</property>
+  <property name="stepIndex">20</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918415</millis>
+  <sequence>133</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203918007.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918416</millis>
+  <sequence>134</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918416</millis>
+  <sequence>135</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">44</property>
+  <property name="stepIndex">21</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918417</millis>
+  <sequence>136</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918421</millis>
+  <sequence>137</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918421</millis>
+  <sequence>138</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918422</millis>
+  <sequence>139</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918422</millis>
+  <sequence>140</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;voucher_code\&amp;quot;)) = count(id(\&amp;quot;voucher_code\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918469</millis>
+  <sequence>141</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;voucher_code\&amp;quot;)) = count(id(\&amp;quot;voucher_code\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918470</millis>
+  <sequence>142</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918508</millis>
+  <sequence>143</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918509</millis>
+  <sequence>144</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;voucher_code\&amp;quot;)) = count(id(\&amp;quot;voucher_code\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918529</millis>
+  <sequence>145</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;voucher_code\&amp;quot;)) = count(id(\&amp;quot;voucher_code\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918529</millis>
+  <sequence>146</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Setting text of object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos; to value &amp;apos;1111&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918606</millis>
+  <sequence>147</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;1111&amp;apos; is set on object &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_voucher_code&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918607</millis>
+  <sequence>148</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918607</millis>
+  <sequence>149</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">22</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918995</millis>
+  <sequence>150</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203918607.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918996</millis>
+  <sequence>151</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918997</millis>
+  <sequence>152</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">46</property>
+  <property name="stepIndex">23</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:18</date>
+  <millis>1498203918998</millis>
+  <sequence>153</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_pm&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919001</millis>
+  <sequence>154</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919001</millis>
+  <sequence>155</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919002</millis>
+  <sequence>156</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_pm&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;pm1\&amp;quot;)) = count(id(\&amp;quot;pm1\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919031</millis>
+  <sequence>157</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_pm&amp;apos; located by &amp;apos;By.xpath: //input[count(. | id(\&amp;quot;pm1\&amp;quot;)) = count(id(\&amp;quot;pm1\&amp;quot;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919031</millis>
+  <sequence>158</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_pm&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919125</millis>
+  <sequence>159</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/input_pm&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919126</millis>
+  <sequence>160</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919127</millis>
+  <sequence>161</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">47</property>
+  <property name="stepIndex">24</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919502</millis>
+  <sequence>162</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203919128.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919503</millis>
+  <sequence>163</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919503</millis>
+  <sequence>164</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">48</property>
+  <property name="stepIndex">25</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919504</millis>
+  <sequence>165</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/button_Checkout&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919509</millis>
+  <sequence>166</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919510</millis>
+  <sequence>167</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919510</millis>
+  <sequence>168</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/button_Checkout&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;basket-checkout\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;large-4 medium-5 columns\&amp;quot;]/div[@class=\&amp;quot;basket__secondary\&amp;quot;]/form[2]/div[@class=\&amp;quot;basket__goto-checkout\&amp;quot;]/button[@class=\&amp;quot;button button--bg-trans\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;basket-checkout\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;large-4 medium-5 columns\&amp;quot;]/div[@class=\&amp;quot;basket__secondary\&amp;quot;]/form[2]/div[@class=\&amp;quot;basket__goto-checkout\&amp;quot;]/button[@class=\&amp;quot;button button--bg-trans\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919536</millis>
+  <sequence>169</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/button_Checkout&amp;apos; located by &amp;apos;By.xpath: //button[count(. | id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;basket-checkout\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;large-4 medium-5 columns\&amp;quot;]/div[@class=\&amp;quot;basket__secondary\&amp;quot;]/form[2]/div[@class=\&amp;quot;basket__goto-checkout\&amp;quot;]/button[@class=\&amp;quot;button button--bg-trans\&amp;quot;]) = count(id(\&amp;quot;top\&amp;quot;)/div[@class=\&amp;quot;container\&amp;quot;]/div[@class=\&amp;quot;basket-checkout\&amp;quot;]/div[@class=\&amp;quot;constrain-max\&amp;quot;]/div[@class=\&amp;quot;row\&amp;quot;]/div[@class=\&amp;quot;large-4 medium-5 columns\&amp;quot;]/div[@class=\&amp;quot;basket__secondary\&amp;quot;]/form[2]/div[@class=\&amp;quot;basket__goto-checkout\&amp;quot;]/button[@class=\&amp;quot;button button--bg-trans\&amp;quot;])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:19</date>
+  <millis>1498203919537</millis>
+  <sequence>170</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/button_Checkout&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:27</date>
+  <millis>1498203927316</millis>
+  <sequence>171</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SENARIO_TEST/UNITED_KINGDOM/PC/Page_Your shopping basket Samsung S/button_Checkout&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:27</date>
+  <millis>1498203927317</millis>
+  <sequence>172</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:27</date>
+  <millis>1498203927318</millis>
+  <sequence>173</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">50</property>
+  <property name="stepIndex">26</property>
+  <property name="description">Use WebUI keyword</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:27</date>
+  <millis>1498203927339</millis>
+  <sequence>174</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delaying browser in 5 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932343</millis>
+  <sequence>175</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 5 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932343</millis>
+  <sequence>176</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932343</millis>
+  <sequence>177</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">51</property>
+  <property name="stepIndex">27</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932705</millis>
+  <sequence>178</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">C:\\Users\\User\\git\\Test_Automation\\Reports\\TSC_UK_PC\\20170623_164419\\1498203932344.png</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932705</millis>
+  <sequence>179</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932706</millis>
+  <sequence>180</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">52</property>
+  <property name="stepIndex">28</property>
+</record>
+<record>
+  <date>2017-06-23T16:45:32</date>
+  <millis>1498203932714</millis>
+  <sequence>181</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Closing browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:33</date>
+  <millis>1498203933471</millis>
+  <sequence>182</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:33</date>
+  <millis>1498203933471</millis>
+  <sequence>183</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:33</date>
+  <millis>1498203933472</millis>
+  <sequence>184</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:33</date>
+  <millis>1498203933472</millis>
+  <sequence>185</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/SCENARIO_TEST/UNITED_KINGDOM/PC/TC_pc_01</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-06-23T16:45:33</date>
+  <millis>1498203933473</millis>
+  <sequence>186</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : TSC_UK_PC</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

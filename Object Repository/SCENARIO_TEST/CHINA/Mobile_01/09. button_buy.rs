@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>09. button_buy</name>
+   <tag></tag>
+   <elementGuidId>04a1bd77-aa9c-400c-a5b8-5506fbb3942c</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/div[3]/div[2]/div/div[1]/div[3]/div[1]/div/div[5]/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-omni</name>
+      <type>Main</type>
+      <value>ua55mu7700j|ua55mu7700jxxz</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>link_info</name>
+      <type>Main</type>
+      <value>/cn/tvs/uhd-mu7700/UA55MU7700JXXZ/@@http://search5.samsung.com/click?ct=c&amp;r=10&amp;q=Premium%20UHD%20TV&amp;site=cn&amp;url=http%3A//www.samsung.com/cn/tvs/uhd-mu7700/UA55MU7700JXXZ/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cn/tvs/uhd-mu7700/UA55MU7700JXXZ/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>了解更多</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-btn-encased product-card-pdp-link</value>
+   </webElementProperties>
+</WebElementEntity>

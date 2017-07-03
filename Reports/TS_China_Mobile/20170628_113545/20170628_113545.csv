@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_China_Mobile,Firefox 53.0,,2017-06-28 11:35:49,2017-06-28 11:36:39,49.914s,FAILED
+,,,,,,
+Test Cases/SCENARIO_TEST/CHINA/Mobile/TC_mobile_01,Firefox 53.0,,2017-06-28 11:35:49,2017-06-28 11:36:39,49.479s,FAILED
+openBrowser,Firefox 53.0,,2017-06-28 11:35:50,2017-06-28 11:35:55,5.195s,PASSED
+setViewPortSize,Firefox 53.0,iPhone 6 diplay size,2017-06-28 11:35:55,2017-06-28 11:35:55,0.086s,PASSED
+navigateToUrl,Firefox 53.0,navigate to www.samsung.com/cn,2017-06-28 11:35:55,2017-06-28 11:35:58,2.757s,PASSED
+click,Firefox 53.0,hit the menu button,2017-06-28 11:35:58,2017-06-28 11:35:58,0.541s,PASSED
+click,Firefox 53.0,,2017-06-28 11:35:58,2017-06-28 11:35:58,0.239s,PASSED
+click,Firefox 53.0,,2017-06-28 11:35:58,2017-06-28 11:35:59,0.689s,PASSED
+click,Firefox 53.0,,2017-06-28 11:35:59,2017-06-28 11:36:05,6.357s,PASSED
+click,Firefox 53.0,,2017-06-28 11:36:05,2017-06-28 11:36:07,1.014s,PASSED
+click,Firefox 53.0,"do not hit the square box, becasue it changes into black when you mouseover\r\n",2017-06-28 11:36:07,2017-06-28 11:36:07,0.480s,PASSED
+click,Firefox 53.0,,2017-06-28 11:36:07,2017-06-28 11:36:39,31.530s,FAILED

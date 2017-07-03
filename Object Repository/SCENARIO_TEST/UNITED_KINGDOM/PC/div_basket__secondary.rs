@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_basket__secondary</name>
+   <tag></tag>
+   <elementGuidId>747317bc-efeb-48d4-a81a-625af524d090</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;basket-checkout&quot;]/div[@class=&quot;constrain-max&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;large-4 medium-5 columns&quot;]/div[@class=&quot;basket__secondary&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basket__secondary</value>
+   </webElementProperties>
+</WebElementEntity>

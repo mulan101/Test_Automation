@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>06. a_ (3)</name>
+   <tag></tag>
+   <elementGuidId>825d073a-eada-49a9-96ff-1cd7c1ffd9e5</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ss-topic-list&quot;)/ul[1]/li[@class=&quot;current&quot;]/div[@class=&quot;topic-sub&quot;]/ul[@class=&quot;sub&quot;]/li[3]/a[@class=&quot;topic&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#!top5/清洁保养/清洁进水阀过滤网</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>清洁进水阀过滤网</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topic</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>url</name>
+      <type>Main</type>
+      <value>%23!top5%2F%E6%B8%85%E6%B4%81%E4%BF%9D%E5%85%BB%2F%E6%B8%85%E6%B4%81%E8%BF%9B%E6%B0%B4%E9%98%80%E8%BF%87%E6%BB%A4%E7%BD%91</value>
+   </webElementProperties>
+</WebElementEntity>

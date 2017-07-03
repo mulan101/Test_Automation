@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+UNIT_TEST_GetElementTopPosition,Chrome 59.0.3071.115,,2017-06-28 09:26:28,2017-06-28 09:27:14,45.174s,FAILED
+,,,,,,
+Test Cases/UNIT_TEST/TC_GetElementTopPosition,Chrome 59.0.3071.115,use to recognize element's position,2017-06-28 09:26:29,2017-06-28 09:27:14,44.809s,FAILED
+openBrowser,Chrome 59.0.3071.115,,2017-06-28 09:26:29,2017-06-28 09:26:33,3.378s,PASSED
+navigateToUrl,Chrome 59.0.3071.115,,2017-06-28 09:26:33,2017-06-28 09:26:42,9.479s,PASSED
+click,Chrome 59.0.3071.115,,2017-06-28 09:26:42,2017-06-28 09:27:14,31.446s,FAILED
