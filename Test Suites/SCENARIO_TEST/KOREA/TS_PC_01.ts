@@ -4,7 +4,7 @@
    <name>TS_PC_01</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2017-06-27T11:00:31</lastRun>
+   <lastRun>2017-07-03T09:48:49</lastRun>
    <mailRecipient>mulan101@gmail.com;je-ho.han@kr.ey.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>

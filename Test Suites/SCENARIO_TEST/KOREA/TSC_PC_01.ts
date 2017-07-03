@@ -3,14 +3,14 @@
    <description></description>
    <name>TSC_PC_01</name>
    <tag></tag>
-   <executionMode>SEQUENTIAL</executionMode>
+   <executionMode>PARALLEL</executionMode>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>
-            <groupName>Web Desktop</groupName>
-            <runConfigurationId>Chrome</runConfigurationId>
+            <groupName>Custom</groupName>
+            <runConfigurationId>remote_chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -18,21 +18,29 @@
             <groupName>Custom</groupName>
             <runConfigurationId>remote_edge</runConfigurationId>
          </configuration>
-         <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <runConfigurationId>Firefox</runConfigurationId>
-         </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
-            <groupName>Web Desktop</groupName>
-            <runConfigurationId>IE</runConfigurationId>
+            <groupName>Custom</groupName>
+            <runConfigurationId>remote_forefox</runConfigurationId>
+         </configuration>
+         <runEnabled>false</runEnabled>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Custom</groupName>
+            <runConfigurationId>remote_ie</runConfigurationId>
+         </configuration>
+         <runEnabled>false</runEnabled>
+         <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Custom</groupName>
+            <runConfigurationId>remote_safari</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/SCENARIO_TEST/KOREA/TS_PC_01</testSuiteEntity>
