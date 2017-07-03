@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>use to recognize element's position</description>
+   <name>TC_GetElementTopPosition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec2f5aea-ca72-4d39-9810-72fdc971846c</testCaseGuid>
+</TestCaseEntity>
