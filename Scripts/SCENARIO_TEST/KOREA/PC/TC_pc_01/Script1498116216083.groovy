@@ -45,8 +45,7 @@ WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/04.input_pnDL
 '\uB85C\uADF8\uC778 \uBC84\uD2BC \uD074\uB9AD / Main\uD654\uBA74\uC73C\uB85C \uC774\uB3D9'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/05.input_btnSignIn_button'))
 
-not_run: WebUI.waitForElementClickable(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'), 
-    10)
+WebUI.delay(10)
 
 WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'))
 
@@ -56,6 +55,8 @@ WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsun
 not_run: WebUI.takeScreenshot()
 
 WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/08.a_menu_mouseover'))
+
+WebUI.waitForElementClickable(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/09.a_menu_click'), 10)
 
 '\uC2A4\uB9C8\uD2B8\uD3F0 \uBA54\uB274 \uD074\uB9AD'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/09.a_menu_click'))
