@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10. img_js-img-src_03</name>
+   <tag></tag>
+   <elementGuidId>73fb0d3e-2cc2-436b-b496-d989b5ca6f0e</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src-mobile</name>
+      <type>Main</type>
+      <value>//images.samsung.com/is/image/samsung/p5/uk/offers/colour-challenge/1024x1472px_q3_colour.jpg?$ORIGIN_JPG$</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;offer-list parsys&quot;]/div[@class=&quot;of-g-offer-list-header section&quot;]/section[@class=&quot;sc-offer-header&quot;]/div[@class=&quot;s-slick js-offer-carousel-div slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-current slick-active&quot;]/div[@class=&quot;s-header-wrap&quot;]/div[@class=&quot;s-bg-wrap&quot;]/img[@class=&quot;js-img-src&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//images.samsung.com/is/image/samsung/p5/uk/offers/colour-challenge/1440x640px_q3_colour.jpg?$ORIGIN_JPG$</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src-pc</name>
+      <type>Main</type>
+      <value>//images.samsung.com/is/image/samsung/p5/uk/offers/colour-challenge/1440x640px_q3_colour.jpg?$ORIGIN_JPG$</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Take the 100% Colour Volume Challenge for a chance to WIN £1,000 every week</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-img-src</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>640</value>
+   </webElementProperties>
+</WebElementEntity>
