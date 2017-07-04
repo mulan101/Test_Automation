@@ -22,7 +22,7 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.openBrowser('')
 
 'iPhone 6 diplay size'
-not_run: WebUI.setViewPortSize(375, 667)
+WebUI.setViewPortSize(375, 667)
 
 WebUI.navigateToUrl('http://www.samsung.com/uk/')
 
