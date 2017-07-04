@@ -29,12 +29,12 @@ WebUI.navigateToUrl('http://www.samsung.com/sec/')
 WebUI.takeScreenshot()
 
 '\uB85C\uADF8\uC778 \uBA54\uB274 \uB9C8\uC6B0\uC2A4 \uC624\uBC84'
-WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/01.span_s-svg s-ico-logout_mouseover'))
+WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/01.span_s-svg s-ico-logout_mouseover'))
 
 '\uB85C\uADF8\uC778 \uBC84\uD2BC \uD074\uB9AD / \uB85C\uADF8\uC778 \uD654\uBA74 \uC774\uB3D9'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/02.a_move_login_click'))
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 '\uC544\uC774\uB514 \uC785\uB825 , id\uAC12\uC774 \uC2DC\uD000\uC2A4\uB85C \uC0DD\uC131\uB418\uAE30 \uB54C\uBB38\uC5D0 \uCD94\uAC00 \uC218\uC815\r\n'
 WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/03.input_pnDLFYZt5U0KqQjekainputU'), loginId)
@@ -45,27 +45,27 @@ WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/04.input_pnDL
 '\uB85C\uADF8\uC778 \uBC84\uD2BC \uD074\uB9AD / Main\uD654\uBA74\uC73C\uB85C \uC774\uB3D9'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/05.input_btnSignIn_button'))
 
-'edge\uC758 \uACBD\uC6B0 \uB85C\uADF8\uC778 \uC644\uB8CC \uC2DC\uC810\uC5D0 \uC624\uB958\uAC00 \uBC1C\uC0DD\uB418\uC5B4 delay \uB85C\uC9C1 \uCD94\uAC00'
-WebUI.waitForJQueryLoad(10)
+not_run: WebUI.waitForElementClickable(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'), 
+    10)
 
-WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'))
+WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'))
 
 '\uB85C\uADF8\uC778 \uC644\uB8CC \uCCB4\uD06C\uB97C \uC704\uD574 text \uBE44\uAD50'
 WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/07.strong_validation_login'), 2)
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/08.a_menu_mouseover'))
+WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/08.a_menu_mouseover'))
 
 '\uC2A4\uB9C8\uD2B8\uD3F0 \uBA54\uB274 \uD074\uB9AD'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/09.a_menu_click'))
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 '\uC2A4\uB9C8\uD2B8\uD3F0 \uC804\uCCB4 \uBCF4\uAE30 \uBC84\uD2BC \uD074\uB9AD / xpath \uC804\uCCB4 \uC218\uC815'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/03.Page_choice_mobile/10.a_smartphone_all_click'))
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/04.Page_choice_detail_mobile/11.span_filter-sort__arrow'))
 
@@ -104,7 +104,7 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/18.span
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
 WebUI.waitForJQueryLoad(10)
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/19.button_submit'))
 
@@ -134,7 +134,7 @@ WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/06.Page_  Sams
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/06.Page_  Samsung/27.a_detail_view'))
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 'class \uACF5\uBC31 \uCD94\uAC00 / xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/28.a_'))
@@ -170,7 +170,7 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKF
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
 WebUI.delay(3)
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 
