@@ -21,45 +21,37 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.setViewPortSize(800, 1028)
 
-'\uC0BC\uC131\uB2F7\uCEF4 Main \uD654\uBA74 \uC774\uB3D9'
 WebUI.navigateToUrl('http://www.samsung.com/sec/')
 
 WebUI.takeScreenshot()
 
-'\uB85C\uADF8\uC778 \uBA54\uB274 \uB9C8\uC6B0\uC2A4 \uC624\uBC84'
-WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/01.span_s-svg s-ico-logout_mouseover'))
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/01.button_s-svg s-gnb-toggler'))
 
-'\uB85C\uADF8\uC778 \uBC84\uD2BC \uD074\uB9AD / \uB85C\uADF8\uC778 \uD654\uBA74 \uC774\uB3D9'
-WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/02.a_move_login_click'))
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/02.a_'))
 
-WebUI.takeScreenshot()
-
-'\uC544\uC774\uB514 \uC785\uB825 , id\uAC12\uC774 \uC2DC\uD000\uC2A4\uB85C \uC0DD\uC131\uB418\uAE30 \uB54C\uBB38\uC5D0 \uCD94\uAC00 \uC218\uC815\r\n'
-WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/03.input_pnDLFYZt5U0KqQjekainputU'), loginId)
-
-'\uBE44\uBC00\uBC88\uD638 \uC785\uB825 , id\uAC12\uC774 \uC2DC\uD000\uC2A4\uB85C \uC0DD\uC131\uB418\uAE30 \uB54C\uBB38\uC5D0 \uCD94\uAC00 \uC218\uC815\r\n'
-WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/04.input_pnDLFYZt5U0KqQjekainputP'), loginPwd)
-
-'\uB85C\uADF8\uC778 \uBC84\uD2BC \uD074\uB9AD / Main\uD654\uBA74\uC73C\uB85C \uC774\uB3D9'
-WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/02.Page_Login/05.input_btnSignIn_button'))
-
-WebUI.delay(10)
-
-WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/06.span_s-svg s-ico-login_mouserover'))
-
-'\uB85C\uADF8\uC778 \uC644\uB8CC \uCCB4\uD06C\uB97C \uC704\uD574 text \uBE44\uAD50'
-WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/07.strong_validation_login'), 2)
+'\uB9C8\uC6B0\uC2A4 \uC624\uBC84\uC2DC CSS \uBCC0\uACBD\uC5D0 \uB530\uB978 xpath \uC218\uC815'
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/03.a_'))
 
 WebUI.takeScreenshot()
 
-WebUI.mouseOver(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/08.a_menu_mouseover'))
+WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/Moble/04.input_inputUserID'), 'mulan101@gmail.com')
 
-WebUI.waitForElementClickable(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/09.a_menu_click'), 10)
+WebUI.setText(findTestObject('SCENARIO_TEST/KOREA/Moble/05.input_inputPassword'), 'hanjeho101!')
 
-'\uC2A4\uB9C8\uD2B8\uD3F0 \uBA54\uB274 \uD074\uB9AD'
-WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/01.Page_Samsung_main/09.a_menu_click'))
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/06.input_btnSignIn'))
+
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/07.button_s-svg s-gnb-toggler'))
+
+WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/Moble/08.strong_'), 2)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/09.a_'))
+
+'\uB9C8\uC6B0\uC2A4 \uC624\uBC84\uC2DC CSS \uBCC0\uACBD\uC5D0 \uB530\uB978 xpath \uC218\uC815, \uBA40\uD2F0 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uCD94\uAC00'
+WebUI.click(findTestObject('SCENARIO_TEST/KOREA/Moble/10.a_'))
 
 WebUI.takeScreenshot()
 
@@ -105,7 +97,7 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/18.span
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
 WebUI.waitForJQueryLoad(10)
 
-not_run: WebUI.takeScreenshot()
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/05.Page_search_mobile/19.button_submit'))
 
@@ -135,7 +127,7 @@ WebUI.verifyElementPresent(findTestObject('SCENARIO_TEST/KOREA/PC/06.Page_  Sams
 
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/06.Page_  Samsung/27.a_detail_view'))
 
-not_run: WebUI.takeScreenshot()
+WebUI.takeScreenshot()
 
 'class \uACF5\uBC31 \uCD94\uAC00 / xpath \uC911\uBCF5 \uC5D8\uB9AC\uBA3C\uD2B8\uB85C \uC778\uD55C \uC870\uAC74 \uC218\uB3D9 \uCD94\uAC00'
 WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/07.Page_ S7   SM-G935SZDESKC  Samsung/28.a_'))
@@ -171,7 +163,7 @@ WebUI.click(findTestObject('SCENARIO_TEST/KOREA/PC/08.Page_SM-G935S  SM-G935STKF
 '\uBE44\uB3D9\uAE30 \uD1B5\uC2E0\uC73C\uB85C \uC778\uD574 delay \uCD94\uAC00'
 WebUI.delay(3)
 
-not_run: WebUI.takeScreenshot()
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 
